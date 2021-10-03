@@ -4763,11 +4763,6 @@ Pentax;Pentax EI-200;5.312;dpreview,digicamdb
 Pentax;Pentax EI-2000;8.8;dpreview,digicamdb
 Pentax;Pentax K 01;23.7;dxomark
 Pentax;Pentax K-01;23.7;dpreview,digicamdb,imaging-resource
-Pentax;Pentax K-1;35.9;dpreview,digicamdb,imaging-resource,dxomark
-Pentax;Pentax K-1 II;35.9;imaging-resource
-Pentax;Pentax K-1 Mark II;35.9;dpreview,digicamdb,dxomark
-Pentax;Pentax K-3;23.5;dpreview,digicamdb,imaging-resource,dxomark
-Pentax;Pentax K-3 II;23.5;dpreview,digicamdb,imaging-resource,dxomark
 Pentax;Pentax K-30;23.7;dpreview,digicamdb,imaging-resource,dxomark
 Pentax;Pentax K-5;23.7;dpreview,digicamdb,imaging-resource
 Pentax;Pentax K-5 II;23.7;dpreview,digicamdb,imaging-resource,dxomark
@@ -4775,11 +4770,8 @@ Pentax;Pentax K-5 IIs;23.7;dpreview,imaging-resource,dxomark
 Pentax;Pentax K-50;23.7;dpreview,digicamdb,imaging-resource,dxomark
 Pentax;Pentax K-500;23.7;dpreview,digicamdb,imaging-resource,dxomark
 Pentax;Pentax K-7;23.4;dpreview,digicamdb
-Pentax;Pentax K-70;23.5;dpreview,digicamdb,imaging-resource,dxomark
 Pentax;Pentax K-m;23.5;dpreview,digicamdb
 Pentax;Pentax K-r;23.6;dpreview,digicamdb,imaging-resource
-Pentax;Pentax K-S1;23.5;dpreview,digicamdb,imaging-resource,dxomark
-Pentax;Pentax K-S2;23.5;dpreview,digicamdb,imaging-resource,dxomark
 Pentax;Pentax K-x;23.6;dpreview,digicamdb,imaging-resource
 Pentax;Pentax K100D;23.5;dpreview,digicamdb
 Pentax;Pentax K100D Super;23.5;dpreview,digicamdb
@@ -4791,7 +4783,7 @@ Pentax;Pentax K20D;23.4;dpreview,digicamdb
 Pentax;Pentax K5;23.7;dxomark
 Pentax;Pentax K7;23.4;dxomark
 Pentax;Pentax KM;24.0;dxomark
-Pentax;Pentax KP;23.5;dpreview,digicamdb,imaging-resource,dxomark
+Ricoh;Pentax KP;23.5;dpreview,digicamdb,imaging-resource,dxomark
 Pentax;Pentax Kr;23.6;dxomark
 Pentax;Pentax Kx;23.6;dxomark
 Pentax;Pentax MX-1;7.44;dpreview,digicamdb,imaging-resource,dxomark
@@ -5087,6 +5079,15 @@ Red;Epic Dragon;30.7;usercontribution
 Red;Red Dragon 4K HD;19.19;usercontribution
 Red;Red Helium 8K S35;29.90;usercontribution
 Red;Red Mysterium-X 4K HD;20.74;usercontribution
+Ricoh;Pentax K-1;35.9;dpreview,digicamdb,imaging-resource,dxomark
+Ricoh;Pentax K-1 II;35.9;imaging-resource
+Ricoh;Pentax K-1 Mark II;35.9;dpreview,digicamdb,dxomark
+Ricoh;Pentax K-3;23.5;dpreview,digicamdb,imaging-resource,dxomark
+Ricoh;Pentax K-3 II;23.5;dpreview,digicamdb,imaging-resource,dxomark
+Ricoh;Pentax K-70;23.5;dpreview,digicamdb,imaging-resource,dxomark
+Ricoh;Pentax KP;23.5;dpreview,digicamdb,imaging-resource,dxomark
+Ricoh;Pentax K-S1;23.5;dpreview,digicamdb,imaging-resource,dxomark
+Ricoh;Pentax K-S2;23.5;dpreview,digicamdb,imaging-resource,dxomark
 Ricoh;Ricoh Caplio 400G Wide;5.33;digicamdb
 Ricoh;Ricoh Caplio 500G;7.144;dpreview,digicamdb
 Ricoh;Ricoh Caplio 500G Wide;7.11;digicamdb
